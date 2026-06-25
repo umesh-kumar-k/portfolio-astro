@@ -4,7 +4,7 @@
     "role": "Senior Architect",
     "period": "May 2013 - Present",
     "type": "FTE",
-    "description": "Leading large scale legacy modernizations, notably transforming the FIS Fixed Income Processing Suite into a high performance application. Proven track record of optimizing system performance, designing scalable API integrations and driving enterprise security, compliance and devops initiatives",
+    "description": ["Leading large scale legacy modernizations, notably transforming the FIS Fixed Income Processing Suite into a high performance application", "Proven track record of optimizing system performance", "Designing scalable API integrations and driving enterprise security, compliance and devops initiatives"],
     "skills": ["Angular", "Modernization","Gen AI","Architecture","Optimization", "Leadership"]
   },
   {
@@ -12,7 +12,7 @@
     "role": "Full-stack Developer",
     "period": "Sep 2006 - May 2013",
     "type": "FTE",
-    "description": "Driving enterprise scale deployments, notably contributing to the successful platform migration for Telenor Group. Proven track record of developing complex billing UIs to efficiently manage thousands of rate plans, while successfully modernizing legacy text based data models into high performance Oracle RDBMS",
+    "description": ["Driving enterprise scale deployments, notably contributing to the successful platform migration for Telenor Group"," Proven track record of developing complex billing UIs to efficiently manage thousands of rate plans","Successfully modernized legacy text based data models into high performance Oracle RDBMS"],
     "skills": ["Java", "Struts", "Hibernate", "Spring", "Oracle"]
   },
   {
@@ -20,7 +20,7 @@
     "role": "B.Tech in Information Technology",
     "period": "Aug 2002 - May 2006",
     "type": "Student",
-    "description": "",
+    "description": [],
     "skills": []
   }
 ]

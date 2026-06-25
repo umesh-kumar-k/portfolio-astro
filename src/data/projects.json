@@ -52,6 +52,61 @@
     "platforms": ["web"],
     "link": "",
     "category": "Platform Modernization"
+  },
+  {
+    "title": "DevOps & Shift-Left Security",
+    "description": ["Integrated security scanning tools and validation extensions into developer IDEs and CI/CD pipelines","Established a Shift-Left security model to detect vulnerabilities earlier in the development lifecycle","Improved early detection of security vulnerabilities during development"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Jenkins", "Checkmarx"," SonarQube"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "DevOps"
+  },
+  {
+    "title": "Operational Excellence",
+    "description": ["Participated in a **24×7 on-call ownership model** for critical production systems","Improved platform reliability for business-critical financial operations.","Led issue triage, root cause analysis, and production incident resolution."],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Ownership", "On-Calls"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Ownership"
+  },
+  {
+    "title": "Platform Modernization",
+    "description": ["Led the modernization of legacy billing data systems by migrating text based data models into an Oracle DB based architecture","Executed a high stakes platform migration of Telenor Group's interconnect billing system, ensuring seamless transition from legacy application to a modernized billing platform"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Java","struts", "Interconnect Billing", "Telecom", "Oracle"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Ownership"
+  },
+  {
+    "title": "Wimax OSS/BSS Lab",
+    "description": ["Set up and maintained WiMAX OSS/BSS simulation labs","Executed functional test scenarios across provisioning and network management layers to validate system behavior","Enabled smoother project transition and customer handover (Alcatel Lucent-France) through effective technical knowledge transfer."],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["WiMax", "BSS/OSS", "Telecom" ],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Ownership"
+  },
+  {
+    "title": "Gen AI Integration",
+    "description": ["Built hands-on expertise in designing scalable GenAI application architectures for enterprise use cases","Developed strong practical understanding of enterprise grade RAG patterns including Hybrid Search,Metadata Filtering, Role Based Access Control, Token Usage Tracking , Evaulation Metrics etc","Enabled smoother project transition and customer handover (Alcatel Lucent-France) through effective technical knowledge transfer."],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Langchain", "RAG", "AI Agents" ],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Gen AI"
+  },
+  {
+    "title": "AI Assisted Productivity",
+    "description": ["Built productivity-focused agents using Microsoft Copilot Studio to automate personal engineering workflows and repetitive tasks","Leveraged Agent Mode in GitHub Copilot for accelerated code generation, refactoring, problem-solving, and workflow automation","Gained applied understanding of enterprise copilots and agent-driven automation patterns increasingly used in modern software teams"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Copilot Studio", "Power Automate", "M365 Copilot", "GitHub Copilot"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "AI Tools"
   }
+  
   
 ]
