@@ -1,26 +1,26 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "company": "Fidelity Information Services (FIS)",
+    "role": "Senior Architect",
+    "period": "May 2013 - Present",
+    "type": "FTE",
+    "description": "Leading large scale legacy modernizations, notably transforming the FIS Fixed Income Processing Suite into a high performance application. Proven track record of optimizing system performance, designing scalable API integrations and driving enterprise security, compliance and devops initiatives",
+    "skills": ["Angular", "Modernization","Gen AI","Architecture","Optimization", "Leadership"]
   },
   {
-    "company": "Demo Company",
+    "company": "Aricent Technologies (Now Altran)",
     "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "period": "Sep 2006 - May 2013",
+    "type": "FTE",
+    "description": "Driving enterprise scale deployments, notably contributing to the successful platform migration for Telenor Group. Proven track record of developing complex billing UIs to efficiently manage thousands of rate plans, while successfully modernizing legacy text based data models into high performance Oracle RDBMS",
+    "skills": ["Java", "Struts", "Hibernate", "Spring", "Oracle"]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "company": "Anna University | Maharaja Engieneering College ",
+    "role": "B.Tech in Information Technology",
+    "period": "Aug 2002 - May 2006",
     "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "",
+    "skills": []
   }
 ]

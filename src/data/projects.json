@@ -1,20 +1,57 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
+    "title": "Platform Modernization",
+    "description": ["Led the end to end modernization of the FIPS Portal","Improved page load performance by 40 to 60%, significantly enhancing daily operational workflows","Defined a modular frontend architecture to improve maintainability, scalability, and release agility","Reduced long term maintenance overhead and enabled faster feature rollouts through modular architecture."],
     "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "tech": ["Angular", "NgRx", "RxJS", "Nx"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "",
+    "category": "Modernization"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Dashboards & Data Visualization",
+    "description": ["Designed and developed interactive dashboards for Portfolio Management and Safekeeping reports","Transformed overnight accounting data into visual, actionable insights for end users","Enabled 1000+ correspondent banks to independently analyze portfolio performance, holdings, pledges, and cashflows"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Logi Info Studio", "Oracle", "Highcharts"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Visualization"
+  },
+  {
+    "title": "Trading Modernization",
+    "description": ["esigned and developed the Trading UI for the Trading and Funding Manager using Angular dynamic forms","Improved adaptability of trading workflows for client-specific needs","Increased operational efficiency while reducing processing overhead"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Reactive Forms", "Angular"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Modernization"
+  },
+  {
+    "title": "Security & Compliance",
+    "description": ["Implemented Single Sign-On (SSO) capabilities across the FIPS Portal","Delivered privacy and compliance initiatives including OneTrust cookie consent integration","Reduced login-related support issues by 40–50%","Improved compliance coverage and reduced security risk across the portal user base"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Logi Info Studio", "Oracle", "Highcharts"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Risk & Compliance"
+  },
+  {
+    "title": "Product Customization",
+    "description": ["Worked directly with lead bank stakeholders and Professional Services teams during customer onboarding and product customization","Delivered white-labeled portal implementations aligned with bank branding requirements.","Accelerated onboarding and implementation timelines for new banking clients.","Improved customer adoption through branded and tailored experiences"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Professional Services", "Micro Front Ends"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Professional Services"
+  },
+  {
+    "title": "Reporting Engine Modernization",
+    "description": ["Designed and architected the modernization of the legacy Portfolio Management system to improve processing performance and operational reliability","Improved processing performance by 75–80%","Enabled near real-time report delivery for day-side operational runs","Reduced production support incidents and on-call escalations by 90%"],
+    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "tech": ["Oracle", "Java", "Connect Direct"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Platform Modernization"
   }
+  
 ]

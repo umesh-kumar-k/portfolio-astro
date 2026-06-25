@@ -1,34 +1,36 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
-      "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
-      ]
-    },
-    {
       "title": "Frontend",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Angular", "level": 2, "icon": "angular" },
+        { "name": "Typescript", "level": 2, "icon": "typescript" },
+        { "name": "NgRx", "level": 2, "icon": "ngrx" },
+        { "name": "RxJS", "level": 2, "icon": "rxjs" },
+        { "name": "Nx", "level": 1, "icon": "nx" },
+        { "name": "Sass", "level": 1, "icon": "sass" },
+        { "name": "Jest", "level": 1, "icon": "jest" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Mobile Development",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "React Native", "level": 3, "icon": "react-native" },
+        { "name": "Ionic", "level": 3, "icon": "ionic" }
+      ]
+    },
+    {
+      "title": "Gen AI",
+      "skills": [
+        { "name": "LangChain", "level": 2, "icon": "langchain" },
+        { "name": "GitHub Copilot", "level": 2, "icon": "github-copilot" },
+        { "name": "M365 Copilot", "level": 3, "icon": "ms-copilot" }
       ]
     },
     {
       "title": "Database",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "Oracle", "level": 3, "icon": "oracle" },
         { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
       ]
     }
