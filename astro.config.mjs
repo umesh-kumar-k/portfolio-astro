@@ -7,7 +7,7 @@ import icon from 'astro-icon';
 
 // https://astro.build/config
 export default defineConfig({
-  // site: '#',
+  site: 'https://umesh-kumar-k.web.app/',
   // base: '/',
   vite: {
     plugins: [tailwindcss()]

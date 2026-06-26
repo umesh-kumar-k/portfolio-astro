@@ -1,9 +1,10 @@
 {
   "name": "Umesh Kumar K",
   "photoUrl": "uk-logo-circle.png",
-  "intro": "An IT Architect with 19+ years of experience leading the design and implementation of scalable, high-performance and secure web applications. Proven track record in executing complex legacy modernizations for enterprise systems, with the ability to build enterprise-grade GenAI integrations.",
-  "introHtml": "An IT Architect with 19+ years of experience leading the design and implementation of scalable, high-performance and secure web applications. Proven track record in executing complex legacy modernizations for enterprise systems, with the ability to build enterprise-grade GenAI integrations.",
-  "webpageTitle": "Umesh Kumar K",
+  "intro": "19+ years web architect specializing in legacy modernization and Enterprise grade GenAI integrations.",
+  "introHtml": "19+ years web architect specializing in legacy modernization and Eterprise grade GenAI integrations.",
+  "webpageTitle": "Umesh Kumar K | Architect | Front End | GenAI integration",
+  "webpageDescription": "19+ years web architect specializing in legacy modernization and Enterprise grade GenAI integrations.",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
